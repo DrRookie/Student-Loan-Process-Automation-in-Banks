@@ -1,0 +1,9 @@
+Dear {0},
+
+Thank you for choosing ABC Bank for student loan application. We are happy to inform you that your
+application has been approved! Please fill-up the attched disburment form and email it to us at least 3 days before your tution fee due date. Once again, thank you and have a great day! 
+
+
+Regards,
+Customer Service Officer
+ABC Bank
